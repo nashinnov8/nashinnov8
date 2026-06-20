@@ -11,7 +11,7 @@
 * 💼 Full-stack Software Engineer
 * 🔧 Experienced in Java, Spring Boot, ASP.NET Core, React, Next.js, and Go
 * ☁️ Interested in Cloud Computing, Kubernetes, and DevOps
-* 📈 Learning Quantitative Trading and Machine Learning
+* 📈 Learning Quantitative Trading and AI-driven Systems
 * 🏃 Fitness enthusiast and Half Marathon runner
 * 📚 Lifelong learner passionate about technology and problem-solving
 
@@ -57,19 +57,18 @@
 ## 🎯 Current Focus
 
 * Building production-ready backend systems
-* Cloud Native Development
 * Kubernetes & DevOps
 * Distributed Systems & Microservices
 * Quantitative Trading
-* Machine Learning
+* Artificial Intelligence
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* Portfolio: https://your-portfolio.com
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: [Nguyen Nguyen](https://www.linkedin.com/in/nguyen-nguyen-developer-d10m02y2004/)
+* Portfolio: [My Portfoilio](https://my-portfolio-rust-gamma-57.vercel.app/)
+* Email: [nashnguyen1002@gmail.com](mailto:nashnguyen1002@gmail.com)
 
 ---
 
