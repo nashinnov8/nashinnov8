@@ -12,7 +12,6 @@
 * 🔧 Experienced in Java, Spring Boot, ASP.NET Core, React, Next.js, and Go
 * ☁️ Interested in Cloud Computing, Kubernetes, and DevOps
 * 📈 Learning Quantitative Trading and AI-driven Systems
-* 🏃 Fitness enthusiast and Half Marathon runner
 * 📚 Lifelong learner passionate about technology and problem-solving
 
 ---
